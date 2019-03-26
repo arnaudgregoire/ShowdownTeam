@@ -1,0 +1,60 @@
+Good boi (Typhlosion) @ Choice Specs
+Ability: Flash Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 1 Atk
+- Eruption
+- Flamethrower
+- Focus Blast
+- Hidden Power [Grass]
+
+Romanian Landorus (Archeops)
+Ability: Defeatist
+EVs: 4 HP / 252 Atk / 252 Spe
+Naive Nature
+IVs: 0 HP / 0 Def / 0 SpD
+- Acrobatics
+- Stone Edge
+- Earth Power
+- U-turn
+
+Team Rocket Leader (Weezing) @ Rocky Helmet
+Ability: Levitate
+Shiny: Yes
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Sludge Bomb
+- Will-O-Wisp
+- Taunt
+- Toxic Spikes
+
+Slowbro @ Assault Vest
+Ability: Regenerator
+Shiny: Yes
+EVs: 212 HP / 252 SpA / 44 Spe
+Modest Nature
+- Scald
+- Future Sight
+- Fire Blast
+- Grass Knot
+
+Marshall Matters LP (Scrafty) @ Iapapa Berry
+Ability: Shed Skin
+Shiny: Yes
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Knock Off
+- Iron Head
+- Drain Punch
+
+Lidl Giratina (Mismagius) @ Ghostium Z
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Nasty Plot
+- Shadow Ball
+- Power Gem
+- Protect
