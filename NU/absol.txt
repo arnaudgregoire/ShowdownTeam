@@ -1,4 +1,4 @@
-Sceptile @ Life Orb  
+Sceptile @ Grassium Z  
 Ability: Overgrow  
 EVs: 4 Def / 252 SpA / 252 Spe  
 Timid Nature  
@@ -6,16 +6,16 @@ IVs: 0 Atk
 - Leaf Storm  
 - Giga Drain  
 - Focus Blast  
-- Hidden Power [Fire]  
+- Hidden Power [Ice]  
 
-Absol @ Black Glasses  
+Absol @ Life Orb  
 Ability: Justified  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Knock Off  
 - Sucker Punch  
 - Superpower  
-- Pursuit  
+- Iron Tail  
 
 Diancie @ Leftovers  
 Ability: Clear Body  
@@ -33,7 +33,7 @@ EVs: 252 HP / 252 Def / 4 SpD
 Bold Nature  
 IVs: 0 Atk  
 - Scald  
-- Psyshock  
+- Psychic  
 - Toxic  
 - Slack Off  
 
@@ -47,12 +47,12 @@ IVs: 0 Atk
 - Pain Split  
 - Taunt  
 
-Sandslash-Alola @ Leftovers  
-Ability: Slush Rush  
-EVs: 252 HP / 208 SpD / 48 Spe  
-Careful Nature  
-- Rapid Spin  
-- Iron Head  
-- Icicle Crash  
-- Earthquake  
+Sillvally-Fairy (Silvally-Steel) @ Steel Memory  
+Ability: RKS System  
+EVs: 232 HP / 216 SpD / 60 Spe  
+Calm Nature  
+- Defog  
+- Flamethrower  
+- Multi-Attack  
+- U-turn  
 
