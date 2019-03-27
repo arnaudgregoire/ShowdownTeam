@@ -52,7 +52,7 @@ Ability: Slush Rush
 EVs: 252 HP / 208 SpD / 48 Spe  
 Careful Nature  
 - Rapid Spin  
-- Stealth Rock  
+- Iron Head  
 - Icicle Crash  
 - Earthquake  
 
