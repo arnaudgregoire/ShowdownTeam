@@ -1,0 +1,58 @@
+Sceptile @ Life Orb  
+Ability: Overgrow  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Giga Drain  
+- Focus Blast  
+- Hidden Power [Fire]  
+
+Absol @ Black Glasses  
+Ability: Justified  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Sucker Punch  
+- Superpower  
+- Pursuit  
+
+Diancie @ Leftovers  
+Ability: Clear Body  
+EVs: 188 HP / 252 SpA / 68 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Moonblast  
+- Power Gem  
+- Heal Bell  
+
+Slowbro @ Colbur Berry  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psyshock  
+- Toxic  
+- Slack Off  
+
+Weezing @ Rocky Helmet  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Flamethrower  
+- Pain Split  
+- Taunt  
+
+Sandslash-Alola @ Leftovers  
+Ability: Slush Rush  
+EVs: 252 HP / 208 SpD / 48 Spe  
+Careful Nature  
+- Rapid Spin  
+- Stealth Rock  
+- Icicle Crash  
+- Earthquake  
+
