@@ -1,0 +1,57 @@
+Sceptile @ Grassium Z  
+Ability: Overgrow  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Giga Drain  
+- Focus Blast  
+- Hidden Power [Ice]  
+
+Absol @ Life Orb  
+Ability: Justified  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Sucker Punch  
+- Superpower  
+- Iron Tail  
+
+Vaporeon @ Leftovers  
+Ability: Water Absorb  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Heal Bell  
+- Wish  
+- Protect  
+
+Rhydon @ Eviolite  
+Ability: Reckless  
+EVs: 252 HP / 16 Atk / 240 SpD  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Blast  
+- Swords Dance  
+
+Typhlosion @ Choice Specs  
+Ability: Blaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Eruption  
+- Flamethrower  
+- Focus Blast  
+- Hidden Power [Grass]  
+
+Sillvally-Fairy (Silvally-Steel) @ Steel Memory  
+Ability: RKS System  
+EVs: 232 HP / 216 SpD / 60 Spe  
+Calm Nature  
+- Defog  
+- Flamethrower  
+- Multi-Attack  
+- U-turn  
+
