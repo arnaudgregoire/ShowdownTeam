@@ -1,0 +1,55 @@
+Clawitzer @ Choice Specs  
+Ability: Mega Launcher  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Pulse  
+- Ice Beam  
+- Dark Pulse  
+- Aura Sphere  
+
+Togedemaru @ Leftovers  
+Ability: Lightning Rod  
+EVs: 252 HP / 204 SpD / 52 Spe  
+Careful Nature  
+- Wish  
+- Iron Head  
+- U-turn  
+- Zing Zap  
+
+Passimian @ Choice Scarf  
+Ability: Defiant  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- U-turn  
+- Knock Off  
+- Gunk Shot  
+
+Mesprit @ Colbur Berry  
+Ability: Levitate  
+EVs: 252 HP / 240 Def / 16 Spe  
+Bold Nature  
+- Stealth Rock  
+- Psychic  
+- U-turn  
+- Healing Wish  
+
+Bulgarian Arceus (Silvally-Fairy) @ Fairy Memory  
+Ability: RKS System  
+EVs: 48 HP / 208 Atk / 252 Spe  
+Jolly Nature  
+- Multi-Attack  
+- Thunderbolt  
+- Parting Shot  
+- Defog  
+
+Heliolisk @ Choice Specs  
+Ability: Dry Skin  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Volt Switch  
+- Hyper Voice  
+- Thunderbolt  
+- Surf  
+
