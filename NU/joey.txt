@@ -1,0 +1,58 @@
+Romanian Volcarona (Vivillon-Fancy) @ Focus Sash  
+Ability: Compound Eyes  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Hurricane  
+- Sleep Powder  
+- Quiver Dance  
+
+Garbage Collector (Garbodor) @ Rocky Helmet  
+Ability: Aftermath  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Gunk Shot  
+- Spikes  
+- Toxic Spikes  
+- Explosion  
+
+Heliolisk @ Life Orb  
+Ability: Dry Skin  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hyper Voice  
+- Thunderbolt  
+- Surf  
+
+Passimian @ Choice Scarf  
+Ability: Defiant  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- U-turn  
+- Knock Off  
+- Gunk Shot  
+
+Sandslash-Alola @ Leftovers  
+Ability: Slush Rush  
+EVs: 252 HP / 208 SpD / 48 Spe  
+Careful Nature  
+- Rapid Spin  
+- Stealth Rock  
+- Icicle Crash  
+- Earthquake  
+
+Vaporeon @ Normalium Z  
+Ability: Water Absorb  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Celebrate  
+- Shadow Ball  
+- Hydro Pump  
+- Ice Beam  
+
