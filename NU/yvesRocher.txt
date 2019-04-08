@@ -1,0 +1,58 @@
+Michelangelo (Accelgor) @ Focus Sash  
+Ability: Hydration  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Bug Buzz  
+- Focus Blast  
+- Energy Ball  
+- Spikes  
+
+Yves (Rocher) (Regirock) @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 180 Def / 76 SpD  
+Impish Nature  
+- Stealth Rock  
+- Rock Slide  
+- Earthquake  
+- Thunder Wave  
+
+Gay Pride Kite (Sigilyph) @ Life Orb  
+Ability: Magic Guard  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Air Slash  
+- Heat Wave  
+- Energy Ball  
+- Roost  
+
+Barbe Rousse (Dhelmise) @ Colbur Berry  
+Ability: Steelworker  
+Shiny: Yes  
+EVs: 156 HP / 252 Atk / 100 Spe  
+Adamant Nature  
+- Power Whip  
+- Anchor Shot  
+- Rapid Spin  
+- Synthesis  
+
+Pikachu v5 (Togedemaru) @ Choice Scarf  
+Ability: Lightning Rod  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+- Nuzzle  
+- Iron Head  
+- U-turn  
+- Zing Zap  
+
+CHINA #1 (Pangoro) @ Lum Berry  
+Ability: Mold Breaker  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Knock Off  
+- Drain Punch  
+- Gunk Shot  
+
