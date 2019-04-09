@@ -44,7 +44,7 @@ Careful Nature
 - Rapid Spin  
 - Stealth Rock  
 - Icicle Crash  
-- Earthquake  
+- Iron Head  
 
 Vaporeon @ Normalium Z  
 Ability: Water Absorb  
@@ -53,6 +53,6 @@ Timid Nature
 IVs: 0 Atk  
 - Celebrate  
 - Shadow Ball  
-- Hydro Pump  
+- Surf  
 - Ice Beam  
 
