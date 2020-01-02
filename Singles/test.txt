@@ -1,0 +1,60 @@
+Tyranitar @ Weakness Policy  
+Ability: Sand Stream  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Stone Edge  
+- Dragon Dance  
+
+Excadrill @ Choice Scarf  
+Ability: Mold Breaker  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brick Break  
+- Swords Dance  
+- Earthquake  
+- Rock Tomb  
+
+Dragapult @ Choice Specs  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Shadow Ball  
+- Fire Blast  
+- Thunderbolt  
+
+Gastrodon @ Absorb Bulb  
+Ability: Storm Drain  
+Level: 50  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Scald  
+- Clear Smog  
+- Ice Beam  
+
+Mamoswine @ Focus Sash  
+Ability: Thick Fat  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Icicle Spear  
+- Ice Shard  
+
+Mimikyu @ Life Orb  
+Ability: Disguise  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Play Rough  
+- Shadow Sneak  
+- Shadow Claw  
+
