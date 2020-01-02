@@ -8,15 +8,15 @@ Adamant Nature
 - Stone Edge  
 - Dragon Dance  
 
-Excadrill @ Choice Scarf  
-Ability: Mold Breaker  
-Level: 50  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Brick Break  
-- Swords Dance  
-- Earthquake  
-- Rock Tomb  
+Rotom-Mow @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Leaf Storm  
+- Trick  
 
 Dragapult @ Choice Specs  
 Ability: Infiltrator  
